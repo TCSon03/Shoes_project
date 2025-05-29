@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "../../components/client/Header";
+import Header from "../../components/client/header/Header";
 import { Outlet } from "react-router-dom";
-import Footer from "../../components/client/Footer";
+import Footer from "../../components/client/footer/Footer";
 
 const ClientLayout = () => {
   return (
